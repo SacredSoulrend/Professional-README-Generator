@@ -28,4 +28,8 @@ THEN I am taken to the corresponding section of the README
 ```
 ## Resources
 
-## Video Tutorial
+Classmate(Ali Aldawoodi) explained and helped me understand the renderLicenseBadge function
+
+## Video Demo Link
+
+https://drive.google.com/file/d/1647FXkat2H2-SXyQj5_cA5AiqKUaP9Ti/view
