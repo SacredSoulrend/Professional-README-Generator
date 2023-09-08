@@ -1,7 +1,7 @@
-# Readme Generator
+# SVG Logo Generator
 
 ## Description
-A way to generate a readme quickly and easily
+A logo generator that generates a svg logo using node and inquirer.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -31,5 +31,5 @@ none
 none
 
 ## Questions
-For additional questions, contact sgiangt@gmail.com.
+For additional questions, contact .
 GitHub: [SacredSoulrend](https://github.com/SacredSoulrend)
